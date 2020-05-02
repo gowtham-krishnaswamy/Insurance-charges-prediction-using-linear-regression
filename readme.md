@@ -1,0 +1,1 @@
+This is a linear regression model to predict insurance charges.
